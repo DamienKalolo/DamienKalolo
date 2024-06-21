@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css?family=Baloo');
+@import url('https://fonts.googleapis.com/css?family=Spicy+Rice'); 
+@import url('https://fonts.googleapis.com/css?family=Permanent Marker'); 
+
+h1 { 
+    font-size: 55px; 
+    text-align: center; 
+    font-family: "Baloo"; 
+}
+img { 
+    width: 50%;
+    border-radius: 50px; 
+    padding-left: 1%; 
+    padding-right: 1%;  
+    background-size: cover; 
+    height: 100%; 
+} 
+div.Info { 
+    font-size: 30px; 
+    display: inline-block;
+    line-height: 100%; 
+    width: 47%; 
+}
+p {
+     font-family: "Spicy Rice"; 
+     line-height: 150%;
+     font-size: 0.7em;
+}
+h2, h3, h4, h5, h6 { 
+    font-family: "Permanent Marker";
+    font-size: 45px; 
+    line-height: 200%; 
+    text-align: center; 
+    border-radius: 30px; 
+    width: fit-content; 
+    margin: 0 auto; 
+    padding: 0 10; 
+}
+div.Everything { 
+    width: 80%; 
+    margin: 0 auto; 
+}
+.MD p { 
+    background-color: yellow; 
+    border-radius: 10px; 
+}
+.KFFC p { 
+    background-color: red; 
+    border-radius: 10px; 
+}
+.DMO p { 
+    background-color: blue; 
+    border-radius: 10px; 
+}
+.BK p { 
+    background-color: orange; 
+    border-radius: 10px; 
+}
+.SW p { 
+    background-color: green; 
+    border-radius: 10px; 
+}
+body { 
+    
+    background: url('Gluttony.png') no-repeat center center fixed;
+    background-size: cover; 
+    
+}
+h2 { 
+    background-color: yellow; 
+}
+h3 { 
+    background-color: red; 
+}
+h4 { 
+    background-color: blue; 
+}
+h5 { 
+    background-color: orange; 
+}
+h6 { 
+    background-color: green; 
+}
